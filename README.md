@@ -1,7 +1,3 @@
-Here's the updated README with a professional touch, including an MIT license and contact information for contributions:
-
----
-
 # Static Site Server with Nginx and rsync Deployment
 
 ## Overview
