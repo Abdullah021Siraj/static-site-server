@@ -17,7 +17,7 @@ Here are the requirements for this project:
 
 ## Flow of the Project
 
-![Project Flow](static-server-site.drawio.png)
+![Project Flow](architecture.png)
 
 ## Step-by-Step Guide
 
